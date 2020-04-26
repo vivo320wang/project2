@@ -111,5 +111,11 @@ svg {
   transform: scale(0.8);
 }
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
+  .reliable {
+    font-size: 1.9rem;
+  }
+  h1 {
+    font-size: 2rem;
+  }
 }
